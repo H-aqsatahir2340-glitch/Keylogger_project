@@ -1,0 +1,1 @@
+[Key.caps_lock] c [Key.caps_lock] yber [Key.space]  [Key.caps_lock] s [Key.caps_lock] ecurity [Key.space]  [Key.caps_lock] i [Key.caps_lock] nternship [Key.space]  [Key.caps_lock] a [Key.caps_lock] rch [Key.space]  [Key.caps_lock] tech [Key.caps_lock]  [Key.esc] 
